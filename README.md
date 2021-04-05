@@ -2,6 +2,14 @@
 I mainly use this platform for web hosting (via GitHub Pages).<br />
 You can view my website at [**mathmakes.art**](https://mathmakes.art).
 
+# JEKETNUNC
+### I'm building [jeketnunc](https://github.com/jeketnunc/jeketnunc), a [Jekyll](https://github.com/jekyll/jekyll) theme for [HicEtNunc](https://www.hicetnunc.xyz) users.
+The [**MathMakesArt website**](https://mathmakes.art) serves as a live demo of this theme.
+<br />
+If you'd like to contribute to the project, please don't hesitate to reach out!
+<br />
+#### NOTE: Documentation for JEKETNUNC is in-progress and not yet released
+
 <!--
 **mathMakesArt/mathMakesArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
