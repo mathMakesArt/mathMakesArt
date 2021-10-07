@@ -2,18 +2,31 @@
 #### If you're looking to network, say hi to me [**on Twitter**](https://twitter.com/mathmakesart)! In terms of social media, I am by far most active there.
 #### I'm also on Discord at **mathMakesArt#9728**, and I occasionally share generative artwork on Instagram at [**@MathMakesArt**](https://instagram.com/mathmakesart).
 #### You can reach me by email at [**mathmakesart@gmail.com**](mailto:mathmakesart@gmail.com).
+<br />
+<hr />
+<br />
 
+### WALLET ADDRESSES:
+Below are my official primary wallet addresses.
+#### For Ethereum and other EVM Blockchains:
+**0x595C4E8FbAb040F3173Dd884c2D92291fD52E0C7**
+#### For Tezos:
+**tz1gsrd3CfZv4BfPnYKq5pKpHGFVdtGCgd71**
+<br />
+<br />
+<hr />
+<br />
 I primarily use GitHub for web hosting (via GitHub Pages).
 <br />
-You can view my website at [**mathmakes.art**](https://mathmakes.art).
-<br />
+
+You can view my website at [**mathmakes.art**](https://mathmakes.art).<br />
 It is written in Jekyll with a combination of HTML/JS and Markdown, styled with SCSS.
 <br />
-
-
+<br />
+<hr />
+<br />
 I also have a several actively-developed repositories, some of which are described below.
 Most of these are just personal projects, but if you'd like to contribute in any way please feel free to reach out!
-<br />
 <br />
 <br />
 <hr />
